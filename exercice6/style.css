@@ -1,13 +1,64 @@
-#conteneur
-{
+.conteneur {
     display: flex;
+    flex-wrap: wrap;
 }
-.element1
-{width: 80%;
-padding-right: 5%;
-background: green;}
- 
-.element2
-{width: 20%;
-    padding-left: 5%;
-    background: green;}
+
+.element1 {
+    height: 5vh;
+    width: 80%;
+    background: green;
+}
+
+.element2 {
+    height: 5vh;
+    width: 20%;
+    background: rgb(0, 60, 128);
+}
+
+.element3 {
+    height: 20vh;
+    width: 40%;
+    background: rgb(231, 7, 7);
+}
+
+.conteneur1 {
+   display: flex;
+   flex-wrap: wrap;
+width: 60%;
+}
+
+.element4 {
+    height: 10vh;
+    width: 50%;
+    background: orangered;
+}
+
+.element5 {
+    height: 10vh;
+    width: 50%;
+    background: rgb(128, 216, 243);
+}
+
+.element6 {
+    height: 10vh;
+    width: 33%;
+    background: rgb(165, 136, 8);
+}
+
+.element7 {
+    height: 10vh;
+    width: 33%;
+    background: rgb(21, 189, 255);
+}
+
+.element8 {
+    height: 10vh;
+    width: 34%;
+    background: rgba(255, 68, 0, 0.678);
+}
+
+.element9 {
+    height: 20vh;
+    width: 100%;
+    background: black
+}
