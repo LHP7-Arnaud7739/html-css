@@ -1,0 +1,13 @@
+#conteneur
+{
+    display: flex;
+}
+.element1
+{width: 80%;
+padding-right: 5%;
+background: green;}
+ 
+.element2
+{width: 20%;
+    padding-left: 5%;
+    background: green;}
