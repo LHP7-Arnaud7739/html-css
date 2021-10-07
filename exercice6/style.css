@@ -22,9 +22,9 @@
 }
 
 .conteneur1 {
-   display: flex;
-   flex-wrap: wrap;
-width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
 }
 
 .element4 {
